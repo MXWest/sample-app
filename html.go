@@ -34,10 +34,10 @@ const (
 <div class="col s8">
 
 
-<div class="card green">
+<div class="card purple">
 <div class="card-image">
 	<img src="https://www.gravatar.com/avatar/e9ee817c55cdcfec1fe1733c6b9e7ba2?s=600">
-	<span class="card-title">Spinnaker in the mike-west Project</span>
+	<span class="card-title">Hello, Eric! From the mike-west Project</span>
 </div>
 <div class="card-content white-text">
 <div class="card-title">Backend that serviced this request</div>
@@ -82,7 +82,7 @@ const (
 </div>
 </div>
 
-<div class="card green">
+<div class="card purple">
 <div class="card-content white-text">
 <div class="card-title">Proxy that handled this request</div>
 </div>
